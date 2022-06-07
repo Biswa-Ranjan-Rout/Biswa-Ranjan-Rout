@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Biswa-Ranjan-Rout
 - 👀 I’m interested in solving real world problems using code.
-- 🌱 DS, Algo, CP, React Native
+- 🌱 DS, Algo, CP, React Native, Java, Spring Boot etc.
 - 💞️ solution for any real world problems.
 - 📫 ranjan.biswa.r@gmail.com
 
